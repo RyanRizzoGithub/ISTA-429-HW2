@@ -1,0 +1,15 @@
+Data Management  - For this category I choose “Record all the steps used to process data.” Without this information it can be difficult to figure out why data might 
+not be processing the way you intend it to. Recording all the steps gives yourself or debuggers the opportunity to find solutions much easier and more efficiently.
+
+Software – For this category I choose “Give functions and variables meaningful  names.” It is very common when developing software to walk always from your code for
+long times. If you do not give your variables significant names, you will have to go through the process of relearning the names each time you work.
+
+Collaboration – For the category I choose “Create an overview of your project.” I think this is a step that is crucial in all larger scale collaborations.
+Its good to give yourself and your group a good understanding of what work needs to be done, and how it can be delegated.
+
+Project Organization – For this category I choose “Name all files to reflect their content or name.” This practice is very similar to giving functions and
+variables proper names. When you are working on a project you don’t want to waste valuable time on file navigation. Good file names and overall good project
+management will help prevent this.
+
+Keeping track of changes – For this category I choose “Back up everything created by a human being as soon as it is created. This is important because it
+is crucial you never lose work which could have been a breakthrough. Backing up all of your work ensures this is never an issue.
